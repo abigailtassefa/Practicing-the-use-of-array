@@ -34,7 +34,7 @@ How It Works
 
 
 Example Run
-
+```
 enter the number of values you want to enter in your list: 4
 enter values for the list:
 Value Number 0 : 10
@@ -44,7 +44,7 @@ Value Number 3 : 40
 The list values are: 10, 20, 30, 40,
 the sum of the values in the list is: 100
 
-
+```
 Function Descriptions
 
 accept function:  Prompts the user to input `n` integer values and stores them in the array `pop`.
